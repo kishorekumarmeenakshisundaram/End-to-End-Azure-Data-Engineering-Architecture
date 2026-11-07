@@ -10,7 +10,7 @@ The Olist Brazilian E-Commerce dataset is used as the source. Eight CSV files ar
 
 ## Architecture
 
-![E-Commerce Data Engineering Architecture](architecture/architecture_diagram.png)
+![E-Commerce Data Engineering Architecture](architecture/E-Commerce%20Data%20Engineering%20Architecture.png)
 
 Azure Data Factory orchestrates the Databricks notebooks, which perform the data transformations and validation.
 
