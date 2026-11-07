@@ -1,4 +1,4 @@
-# End-to-End E-Commerce Data Engineering Pipeline
+# End-to-End Azure Data Engineering Architecture
 
 An end-to-end Azure Data Engineering project built using Azure Data Factory, Azure Databricks, PySpark, Azure Data Lake Storage Gen2, and Delta Lake. This project processes Brazilian e-commerce data through a Medallion Architecture (Bronze, Silver, and Gold) and performs data quality validation.
 
