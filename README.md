@@ -88,12 +88,21 @@ The activities are connected through success dependencies to execute the workflo
 
 ```text
 ecommerce-data-engineering/
+│
 ├── architecture/
-│   └── architecture_diagram.png
+│   └── E-Commerce Data Engineering Architecture.png
+│
 ├── notebooks/
 │   ├── 01_bronze_to_silver.py
 │   ├── 02_silver_to_gold.py
 │   └── 03_data_quality_checks.py
+│
+├── screenshots/
+│   ├── azure_resources/
+│   ├── adf_pipeline/
+│   ├── databricks/
+│   └── data_quality/
+│
 └── README.md
 ```
 
